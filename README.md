@@ -10,8 +10,6 @@ I'm Daniel ([@cpu]).
 
 🕰️🦀 Recently: I've been learning Rust and contributing to the [Rustls] ecosystem.
 
-📝🌐 Sometimes: I remember to [write about][log] what I'm working on.
-
 [Block]: https://block.xyz/
 [Square]: https://squareup.com/ca/en
 [LetsEncrypt]: https://letsencrypt.org/
@@ -25,4 +23,3 @@ I'm Daniel ([@cpu]).
 [ZLint]: https://github.com/zmap/zlint
 [Streisand]: https://github.com/StreisandEffect/streisand
 [Rustls]: https://github.com/rustls/rustls
-[log]: https://log.woodweb.ca/
