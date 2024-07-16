@@ -4,11 +4,11 @@ I'm Daniel ([@cpu]).
 
 [@cpu]: https://twitter.com/cpu
 
-🛠️💕 I like: Go, applied cryptography, Rust, mountain bikes, ACME, computer security, mushrooms, Nix/NixOS, death|black metal, Linux, free software, skateboards, DNS, emoji, snowboards, Wireguard, living in the woods, MUDs, LPC, & reading other people’s dev logs.
+🛠️💕 I like: Rust, applied cryptography, Go, mountain bikes, ACME, computer security, mushrooms, Nix/NixOS, death|black metal, Linux, free software, skateboards, DNS, emoji, snowboards, Wireguard, living in the woods, MUDs, LPC, & reading other people’s dev logs.
 
-🚧🏗️ I’ve worked at: [Block]/[Square], [Let’s Encrypt][LetsEncrypt]/[ISRG], [Fastly], [Leviathan Security Group], & the [Carleton Computer Security Lab][CCSL]. I helped make [ACME] and I’ve contributed to free software like [Boulder], [Nixpkgs], [ZLint], and [Streisand].
+🚧🏗️ I’ve worked at: [Block]/[Square], [Let’s Encrypt][LetsEncrypt]/[ISRG], [Fastly], [Leviathan Security Group], & the [Carleton Computer Security Lab][CCSL]. I helped make [ACME] and I’ve contributed to free software like [Rustls], [Boulder], [ZLint], and [Streisand].
 
-🕰️🦀 Recently: I've been learning Rust and contributing to the [Rustls] ecosystem.
+🕰️🦀 Recently: I've been working full-time on the [Rustls] ecosystem. Consider [sponsoring my funders](https://www.abetterinternet.org/donate/)!
 
 [Block]: https://block.xyz/
 [Square]: https://squareup.com/ca/en
