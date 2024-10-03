@@ -8,7 +8,9 @@ I'm Daniel ([@cpu]).
 
 🚧🏗️ I’ve worked at: [Block]/[Square], [Let’s Encrypt][LetsEncrypt]/[ISRG], [Fastly], [Leviathan Security Group], & the [Carleton Computer Security Lab][CCSL]. I helped make [ACME] and I’ve contributed to free software like [Rustls], [Boulder], [ZLint], and [Streisand].
 
-🕰️🦀 Recently: I've been working full-time on the [Rustls] ecosystem. Consider [sponsoring my funders](https://www.abetterinternet.org/donate/)!
+🕰️🦀 Recently: I've been working 50% on the [Rustls] ecosystem, and 50% supporting a [FIPS 140-3 certification for Go std crypto][FIPS].
+
+💼💸 Soon: I will be available for work in early 2025. Reach out[^1] if you're in the market to hire for contract or full-time positions.
 
 [Block]: https://block.xyz/
 [Square]: https://squareup.com/ca/en
@@ -23,3 +25,6 @@ I'm Daniel ([@cpu]).
 [ZLint]: https://github.com/zmap/zlint
 [Streisand]: https://github.com/StreisandEffect/streisand
 [Rustls]: https://github.com/rustls/rustls
+[FIPS]: https://github.com/golang/go/issues/69536
+
+[^1]: Unwanted: on-site or hybrid jobs, cryptocurrencies, blockchain, web3.
