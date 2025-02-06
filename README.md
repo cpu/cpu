@@ -10,6 +10,8 @@ I'm Daniel ([@cpu]).
 
 🕰️🦀 Recently: I've been working on the [Rustls] ecosystem, and supporting a [FIPS 140-3 certification for Go std crypto][FIPS].
 
+💸☕ Help out: If you find my work valuable, consider becoming a [sponsor].
+
 [Block]: https://block.xyz/
 [Square]: https://squareup.com/ca/en
 [LetsEncrypt]: https://letsencrypt.org/
@@ -24,3 +26,4 @@ I'm Daniel ([@cpu]).
 [Streisand]: https://github.com/StreisandEffect/streisand
 [Rustls]: https://github.com/rustls/rustls
 [FIPS]: https://github.com/golang/go/issues/69536
+[Sponsor]: https://github.com/sponsors/cpu
